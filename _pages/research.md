@@ -35,7 +35,7 @@ The interstellar medium (ISM) is comprised of the gas and dust between stellar s
 
 Student Projects
 ======
-I have had the pleasure of advising four undergraduate students and one high school student, mostly through UMD's Astronomy and Physics [GRAD-MAP program](https://www.umdgradmap.org/). These projects included analyzing the northern side of the NGC 253 wind, mapping CO in EDGE galaxies, and measuring fractal dimensions in the ISM of PHANGS galaxies.
+I have had the pleasure of advising four undergraduate students and one high school student, mostly through UMD's Astronomy and Physics [GRAD-MAP program](https://www.umdgradmap.org/). These projects included analyzing the northern side of the NGC 253 wind, mapping CO in EDGE galaxies, and measuring fractal dimensions in ISM structures in PHANGS galaxies.
 
 My Research in the News
 ======
