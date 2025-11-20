@@ -14,9 +14,11 @@ Galactic Winds & the Baryon Cycle
 
 **Dust in Galactic Winds.** (M82.)
 
-Star Formation in Galaxy Centers
+Star Formation.
 ======
-**Cluster Formation in Nuclear Rings.**
+Stars are formed out of the gravitational collapse of dense molecular clouds, and most stars are thought to be formed in clusters. The high-density, high-pressure regions of galaxy centers are prime for cluster formation. In fact, the galactic winds of M82 and NGC 253 are driven not only by supernovae, but also the formation of extremely compact, high-mass "super" star clusters. The physics of cluster formation and subsequent feedback is an interesting facet of how the interstellar medium both fuels star formation and is impacted by it.
+
+**Cluster Formation in Nuclear Rings.** In Cycle 12, I was awarded 32 hours of ALMA time on both the 12-m and 7-m arrays to locate forming super star clusters in the nuclear rings of 5 nearby galaxies, selected from the PHANGS-JWST and PHANGS-ALMA surveys. This project may detect up to ~100 forming clusters and measure their dyanamics and physical properties. These data push to sub-arcsecond resolution to measure cluster properties on few parsec scales, and allow us to measure the gas that feeds the clusters as well as stellar feedback signatures.
 
 
 The Interstellar Medium
