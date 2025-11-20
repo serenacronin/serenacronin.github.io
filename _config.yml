@@ -43,6 +43,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
+  linkedin         : https://www.linkedin.com/in/serena-cronin-93514331a/
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
