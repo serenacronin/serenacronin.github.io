@@ -43,4 +43,4 @@ My Research in the News
 * [UMD was very kind to write a profile on me.](https://www.astro.umd.edu/news-events/news/studying-dust-wind)
 * [UMD press release on PAHs at the base of the M82 wind](https://www.astro.umd.edu/news-events/news/nasas-james-webb-space-telescope-captures-images-galaxy-m82s-glowing-core-and). I did the continuum subtraction to isolate the PAH emission!
 * [Astrobites article on PAHs in the inner M82 wind](https://astrobites.org/2025/11/20/m82_dust/), in which I was a coauthor and helped with the JWST data.
-* [ESA Press Release on full MIRI and NIRCam imaging of M82.](https://esawebb.org/images/potm2506a/)
+* [ESA press release on full MIRI and NIRCam imaging of the inner M82 wind.](https://esawebb.org/images/potm2506a/)
