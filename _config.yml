@@ -23,7 +23,7 @@ repository               : "serenacronin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Serena A. Cronin"
   pronouns         : "she/they"  
   bio              : "Observational astronomer who really likes galaxies."
