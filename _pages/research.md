@@ -4,7 +4,6 @@ permalink: /research/
 title: "Research Projects"
 author_profile: true
 redirect_from: 
-  - /research/
   - /research.html
 ---
 
