@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /research.html
 ---
+Below is the research I am currently working on. Some of them are my thesis projects, and others I am only dabbling in. Overall, I enjoy using cutting-edge facilities to observe the physics of the interstellar medium in galaxies.
 
 Galactic Winds & the Baryon Cycle
 ======
