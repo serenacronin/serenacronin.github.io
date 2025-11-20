@@ -11,54 +11,58 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Astronomy, University of Maryland, College Park, 2027 (expected)
+* M.S. in Astronomy, University of Maryland, College Park, 2023
+* B.S. in Astronomy & Astrophysics, The Ohio State University, 2020
 
-Work experience
+Research positions
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2021-: Graduate Research Assistant
+  * University of Maryland, College Park
+  * Thesis topics: star formation, starbursts, galactic winds, galaxies
+  * Advisor: Prof. Alberto Bolatto
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020-2021: Post-Bac Research Assistant
+  * National Radio Astronomy Observatory
+  * Project: Molecular Absorption Lines toward Sgr A*
+  * Advisors: Prof. David Meier, Dr. Juergen Ott
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2018-2020: Undergraduate Research Assistant
+  * The Ohio State University
+  * Project: Local Environments of Low-Redshift Supernovae
+  * Advisors: Prof. Adam Leroy, Dr. Dyas Utomo
 
-Publications
+First-Author Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Physical Conditions of the Ionized Superwind in NGC 253 with VLT/MUSE (Cronin et al. 2025)
+* Local Environments of Low-redshift Supernovae (Cronin et al. 2021)
+
+Observing Time (PI)
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* ALMA: 2 programs, 42 total hours
+* VLA: 1 program, 90 total hours
+
+Selected Skills
+======
+* Radio single-dish, interferometry
+* Optical/IR integral field unit spectroscopy
+* Multiwavelength photometry
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2021-2022: Teaching Assistant
+  * University of Maryland
+  * Class: ASTR100 (lecture & discussion)
+  * Phillip E. Angerhofer Oustanding Teaching Assistant Award (2022)
+    
+* 2017-2020: Teaching Assistant
+  * The Ohio State University
+  * Class: ASTRO 1101 (lab & lecture)
   
-Service and leadership
+Selected service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Research mentorship: 4 undergrads, 1 high school student (2022-)
+* AAS SGMA committee member (2024-)
+* NASA ROSES Executive Secretary (2025)
+* UMD Community & Belonging Committee (2022-2024)
+* UMD Workshops on Applying to Astronomy Graduate School (founder, 2022-2024)
