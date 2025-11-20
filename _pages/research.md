@@ -47,3 +47,7 @@ My Research in the News
 
 ![image tooltip here](/images/M82_F770W_eyeofsauron_small.png){: width="400" style="display:block; margin:auto;" }
 
+<p style="text-align:center; font-size:0.9em; color:#666;">
+  *JWST MIRI F770W (7.7μm) imaging of the inner M82 wind. Image Credit: Alyssa Pagan, STScI. Data Credit: ESA/Webb, NASA & CSA, A. Bolatto.*
+</p>
+
