@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Serena A. Cronin - Research Website"
+title: "Serena A. Cronin - About Me"
 author_profile: true
 redirect_from: 
   - /about/
