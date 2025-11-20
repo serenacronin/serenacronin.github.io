@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Physical Conditions of the Ionized Superwind in NGC 253 with VLT/MUSE"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2025-07-01-ngc253-muse
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2025-07-01
+venue: 'ApJ'
+paperurl: 'https://ui.adsabs.harvard.edu/abs/2025ApJ...987...92C/abstract'
+citation: 'Cronin, S.A., et al. (2025), ApJ, 987, 92'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Abstract: We present an analysis of the Hα-emitting ionized gas in the warm phase of the NGC 253 outflow using integral field spectroscopy from the Multi Unit Spectroscopic Explorer. In each spaxel, we decompose Hα, [N II], and [S II] emission lines into a system of up to three Gaussian components, accounting for the velocity contributions due to the disk and both intercepted walls of an outflow cone. In the approaching southern lobe of the outflow, we find maximum deprojected outflow velocities down to ∼‑500 km s‑1. Velocity gradients of this outflowing gas range from ∼‑350 to ‑550 km s‑1 kpc‑1 with increasing distance from the nucleus. Additionally, [N II]/Hα and [S II]/Hα integrated line ratios are suggestive of shocks as the dominant ionization source throughout the wind. Electron densities, inferred from the [S II] doublet, peak at 2100 cm‑3 near the nucleus and reach ≲50 cm‑3 in the wind. Finally, at an uncertainty of 0.3 dex on the inferred mass of 4 × 105 M⊙, the mass-outflow rate of the Hα-emitting gas in the southern outflow lobe is ∼0.4 M⊙ yr‑1. This yields a mass-loading factor of η ∼ 0.1 and a ∼2% starburst energy efficiency.
