@@ -45,4 +45,5 @@ My Research in the News
 * [Astrobites article on PAHs in the inner M82 wind](https://astrobites.org/2025/11/20/m82_dust/), in which I was a coauthor and helped with the JWST data.
 * [ESA press release on full MIRI and NIRCam imaging of the inner M82 wind.](https://esawebb.org/images/potm2506a/)
 
-![image tooltip here](/images/M82_F770W_eyeofsauron_small.png){:width="500; style=display:block; margin-left:auto; margin-right:auto"}
+![image tooltip here](/images/M82_F770W_eyeofsauron_small.png){: width="400" style="display:block; margin:auto;" }
+
