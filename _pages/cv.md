@@ -34,9 +34,10 @@ Research positions
 
 First-Author Publications
 ======
-* [Physical Conditions of the Ionized Superwind in NGC 253 with VLT/MUSE (Cronin et al. 2025)](https://ui.adsabs.harvard.edu/abs/2025ApJ...987...92C/abstract)
-* [Local Environments of Low-redshift Supernovae (Cronin et al. 2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923...86C/abstract)
-
+ <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Observing Time (PI)
 ======
 * ALMA: 2 programs, 42 total hours
