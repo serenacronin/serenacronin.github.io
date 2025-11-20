@@ -14,7 +14,7 @@ Galactic Winds & the Baryon Cycle
 
 **Dust in Galactic Winds.** (M82.)
 
-Star Formation.
+Star Formation
 ======
 Stars are formed out of the gravitational collapse of dense molecular clouds, and most stars are thought to be formed in clusters. The high-density, high-pressure regions of galaxy centers are prime for cluster formation. In fact, the galactic winds of M82 and NGC 253 are driven not only by supernovae, but also the formation of extremely compact, high-mass "super" star clusters. The physics of cluster formation and subsequent feedback is an interesting facet of how the interstellar medium both fuels star formation and is impacted by it.
 
