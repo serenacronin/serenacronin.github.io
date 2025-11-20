@@ -34,8 +34,8 @@ Research positions
 
 First-Author Publications
 ======
-* Physical Conditions of the Ionized Superwind in NGC 253 with VLT/MUSE (Cronin et al. 2025)
-* Local Environments of Low-redshift Supernovae (Cronin et al. 2021)
+* [Physical Conditions of the Ionized Superwind in NGC 253 with VLT/MUSE (Cronin et al. 2025)](https://ui.adsabs.harvard.edu/abs/2025ApJ...987...92C/abstract)
+* [Local Environments of Low-redshift Supernovae (Cronin et al. 2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923...86C/abstract)
 
 Observing Time (PI)
 ======
