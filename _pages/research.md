@@ -62,7 +62,7 @@ Below is the research I am currently working on. Some of them are my thesis proj
 }
 </style>
 
-<details class="research-details">
+<details class="research-details" markdown="1">
   <summary>Galactic Winds & the Baryon Cycle</summary>
   <div>
 
@@ -77,7 +77,7 @@ There are other galaxies worth studying, of course. I was awarded 7 hours of Gra
   </div>
 </details>
 
-<details class="research-details">
+<details class="research-details" markdown="1">
   <summary>Star Formation</summary>
   <div>
 
@@ -88,7 +88,7 @@ Stars are formed out of the gravitational collapse of dense molecular clouds, an
   </div>
 </details>
 
-<details class="research-details">
+<details class="research-details" markdown="1">
   <summary>The Interstellar Medium</summary>
   <div>
 
@@ -101,7 +101,7 @@ The interstellar medium (ISM) is comprised of the gas and dust between stellar s
   </div>
 </details>
 
-<details class="research-details">
+<details class="research-details" markdown="1">
   <summary>Student Projects</summary>
   <div>
 
@@ -110,7 +110,7 @@ I have had the pleasure of advising four undergraduate students and one high sch
   </div>
 </details>
 
-<details class="research-details">
+<details class="research-details" markdown="1">
   <summary>My Research in the News</summary>
   <div>
 
