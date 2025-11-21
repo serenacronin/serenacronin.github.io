@@ -9,7 +9,50 @@ redirect_from:
 
 Below is the research I am currently working on. Some of them are my thesis projects, and others I am only dabbling in. Overall, I enjoy using cutting-edge facilities to observe the physics of the interstellar medium in galaxies.
 
-{% details Galactic Winds & the Baryon Cycle %}
+<style>
+/* Style all dropdowns on this page */
+.research-details {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 0;
+  margin: 1.2em 0;
+  background: #fafafa;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+}
+
+.research-details summary {
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 1.1em;
+  padding: 12px 16px;
+  list-style: none;
+}
+
+.research-details summary::-webkit-details-marker {
+  display: none;
+}
+
+.research-details summary::after {
+  content: "▾";
+  float: right;
+  transition: transform 0.2s ease;
+  opacity: 0.6;
+}
+
+.research-details[open] summary::after {
+  transform: rotate(180deg);
+}
+
+.research-details > div {
+  padding: 0 16px 16px 16px;
+  margin-top: -4px;
+  line-height: 1.6;
+}
+</style>
+
+<details class="research-details">
+  <summary>Galactic Winds & the Baryon Cycle</summary>
+  <div>
 
 Galactic winds are powerful multiphase outflows of material being ejected from galaxies, often driven by AGN or stellar feedback. Galactic winds play critical roles in how baryons flow out of galaxies, and thus are thought to be a driver of gas and dust into the circumgalactic medium and a main player in quenching star formation. Thus, galactic winds are crucial to understanding the full galaxy evolution picture and the origin of much of the material in the surrounding circumgalactic medium.
 
@@ -19,17 +62,23 @@ In 2025, I put out a paper on the kinematics and physical conditions of the warm
 
 There are other galaxies worth studying, of course. I was awarded 7 hours of Grade A ALMA time to obtain CO imaging of five galaxies in the [DUVET sample](https://www.deannefisher.com/duvet). These galaxies are starbursting throughout their disks, and these data are confirming the presence of molecular outflows in addition to known ionized outflows.
 
-{% enddetails %}
+  </div>
+</details>
 
-{% details Star Formation %}
+<details class="research-details">
+  <summary>Star Formation</summary>
+  <div>
 
 Stars are formed out of the gravitational collapse of dense molecular clouds, and most stars are thought to be formed in clusters. The high-density, high-pressure regions of galaxy centers are prime for cluster formation. In fact, the galactic winds of M82 and NGC 253 are driven not only by supernovae, but also the formation of extremely compact, high-mass "super" star clusters. The physics of cluster formation and subsequent feedback is an interesting facet of how the interstellar medium both fuels star formation and is impacted by it.
 
 **Cluster Formation in Nuclear Rings.** In Cycle 12, I was awarded 32 hours of ALMA time on both the 12-m and 7-m arrays to locate forming super star clusters in the nuclear rings of 5 nearby galaxies, selected from the PHANGS-JWST and PHANGS-ALMA surveys. This project may detect up to ~100 forming clusters and measure their dyanamics and physical properties. These data push to sub-arcsecond resolution to measure cluster properties on few parsec scales, and allow us to measure the gas that feeds the clusters as well as stellar feedback signatures.
 
-{% enddetails %}
+  </div>
+</details>
 
-{% details The Interstellar Medium %}
+<details class="research-details">
+  <summary>The Interstellar Medium</summary>
+  <div>
 
 The interstellar medium (ISM) is comprised of the gas and dust between stellar systems. It hosts the nurseries where stars are born, and is chemically and physically shaped by highly energetic feedback processes such as supernovae. Because galaxy growth is governed by its ability to form stars, the processes occurring in the ISM are intrinsically linked to the evolution of galaxies. It is thus critical to understand the physics that shape the ISM in a variety of Galactic and extragalactic contexts.
 
@@ -37,23 +86,30 @@ The interstellar medium (ISM) is comprised of the gas and dust between stellar s
 
 **The Galactic ISM.** What are the dynamics and composition of gas throughout the Milky Way? During my post-bac at NRAO, I used early-ALMA data to analyze absorption lines along the line-of-sight toward Sgr A\* — the supermassive black hole that lies at the center of our Galaxy. The spectra we obtained were rich with molecular gas features that hinted at shocks near the Galactic Center and dense gas in the spiral arms. This was my first taste of the complexities of reducing and analyzing radio data (and the almost *too many* spectral lines we can obtain in the Galaxy — sorry, X-ray astronomers). I will always find radio to be the coolest wavelength to work in.
 
-{% enddetails %}
+  </div>
+</details>
 
-{% details Student Projects %}
+<details class="research-details">
+  <summary>Student Projects</summary>
+  <div>
 
 I have had the pleasure of advising four undergraduate students and one high school student, mostly through UMD's Astronomy and Physics [GRAD-MAP program](https://www.umdgradmap.org/). These projects included analyzing the northern side of the NGC 253 wind, mapping CO in EDGE galaxies, and measuring fractal dimensions in ISM structures in PHANGS galaxies.
 
-{% enddetails %}
+  </div>
+</details>
 
-{% details My Research in the News %}
+<details class="research-details">
+  <summary>My Research in the News</summary>
+  <div>
 
-* [UMD article about GRAD-MAP](https://www.astro.umd.edu/news-events/news/grad-map-students-mentors-learn-each-other)
-* [UMD profile on me](https://www.astro.umd.edu/news-events/news/studying-dust-wind)
-* [UMD press release on PAHs at the base of the M82 wind](https://www.astro.umd.edu/news-events/news/nasas-james-webb-space-telescope-captures-images-galaxy-m82s-glowing-core-and) — I did the continuum subtraction!
-* [Astrobites article on PAHs in the inner M82 wind](https://astrobites.org/2025/11/20/m82_dust/)
+* [UMD article about GRAD-MAP](https://www.astro.umd.edu/news-events/news/grad-map-students-mentors-learn-each-other)  
+* [UMD profile on me](https://www.astro.umd.edu/news-events/news/studying-dust-wind)  
+* [UMD press release on PAHs at the base of the M82 wind](https://www.astro.umd.edu/news-events/news/nasas-james-webb-space-telescope-captures-images-galaxy-m82s-glowing-core-and) — I did the continuum subtraction!  
+* [Astrobites article on PAHs in the inner M82 wind](https://astrobites.org/2025/11/20/m82_dust/)  
 * [ESA press release on full MIRI + NIRCam imaging of the inner M82 wind](https://esawebb.org/images/potm2506a/)
 
-{% enddetails %}
+  </div>
+</details>
 
 <br>
 
