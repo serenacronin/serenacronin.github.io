@@ -2,6 +2,25 @@
 
 <!-- start custom head snippets -->
 
+<!-- Page title -->
+<title>{{ page.title | default: "Serena Cronin – Personal Website" }}</title>
+
+<!-- Meta description -->
+<meta name="description" content="{{ page.description | default: 'Portfolio and projects of Serena Cronin, astrophysicist and data scientist.' }}">
+
+<!-- Ensure search engines can index -->
+<meta name="robots" content="index, follow">
+
+<!-- Canonical URL to avoid duplicate content issues -->
+<link rel="canonical" href="{{ site.url }}{{ page.url }}">
+
+<!-- Open Graph for social media sharing -->
+<meta property="og:title" content="{{ page.title | default: 'Serena Cronin – Personal Website' }}">
+<meta property="og:description" content="{{ page.description | default: 'Portfolio and projects of Serena Cronin, astrophysicist and data scientist.' }}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:image" content="{{ site.url }}/assets/og-image.png">
+
 <!-- Support for Academicons -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
