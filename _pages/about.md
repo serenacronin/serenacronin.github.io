@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Serena A. Cronin - About Me"
 description: "Website for Serena Cronin, PhD candidate at University of Maryland, focusing on multiwavelength observations of local galaxies."
 author_profile: true
 redirect_from: 
