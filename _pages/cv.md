@@ -17,19 +17,16 @@ Education
 
 Research positions
 ======
-* 2021-: Graduate Research Assistant
-  * University of Maryland, College Park
-  * Thesis topics: star formation, starbursts, galactic winds, galaxies
+* 2021-: Graduate Research Assistant, University of Maryland, College Park
+  * Thesis topics: baryon cycle, star formation, starbursts, galactic winds, galaxies
   * Advisor: Prof. Alberto Bolatto
 
-* 2020-2021: Post-Bac Research Assistant
-  * National Radio Astronomy Observatory
-  * Project: Molecular Absorption Lines toward Sgr A*
+* 2020-2021: Post-Bac Research Assistant, National Radio Astronomy Observatory
+  * Topics: radio interferometry, ISM physics, molecules, Sgr A*, Galactic Center
   * Advisors: Prof. David Meier, Dr. Juergen Ott
 
-* 2018-2020: Undergraduate Research Assistant
-  * The Ohio State University
-  * Project: Local Environments of Low-Redshift Supernovae
+* 2018-2020: Undergraduate Research Assistant, The Ohio State University
+  * Thesis topics: ISM, local galaxies, supernovae, UV/IR photometry, statistics
   * Advisors: Prof. Adam Leroy, Dr. Dyas Utomo
 
 First-Author Publications
@@ -49,17 +46,14 @@ Selected Skills
 * Radio single-dish, interferometry
 * Optical/IR integral field unit spectroscopy
 * Multiwavelength photometry
+* Certified remove observer - Green Bank Telescope
   
 Teaching
 ======
-* 2021-2022: Teaching Assistant
-  * University of Maryland
-  * Class: ASTR100 (lecture & discussion)
+* 2021-2022: Teaching Assistant, University of Maryland
   * Phillip E. Angerhofer Oustanding Teaching Assistant Award (2022)
     
-* 2017-2020: Teaching Assistant
-  * The Ohio State University
-  * Class: ASTRO 1101 (lab & lecture)
+* 2017-2020: Teaching Assistant, The Ohio State University
   
 Selected service and leadership
 ======
