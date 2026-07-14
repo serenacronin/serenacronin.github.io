@@ -28,12 +28,6 @@ Research positions
 * 2018-2020: Undergraduate Research Assistant, The Ohio State University
   * Thesis topics: ISM, local galaxies, supernovae, UV/IR photometry, statistics
   * Advisors: Prof. Adam Leroy, Dr. Dyas Utomo
-
-First-Author Publications
-======
- <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Observing Time (PI)
 ======
