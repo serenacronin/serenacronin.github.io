@@ -40,6 +40,7 @@ First-Author Publications
   
 Observing Time (PI)
 ======
+* JWST (NIRSpec MSA): 1 program, 9 total hours
 * ALMA: 2 programs, 42 total hours
 * VLA: 1 program, 90 total hours
 
@@ -62,7 +63,7 @@ Teaching
   
 Selected service and leadership
 ======
-* Research mentorship: 4 undergrads, 1 high school student (2022-)
+* Research mentorship: 5 undergrads, 1 high school student (2022-)
 * AAS SGMA committee member (2024-)
 * NASA ROSES Executive Secretary (2025)
 * UMD Community & Belonging Committee (2022-2024)
