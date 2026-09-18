@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="{{ base_path }}/files/SCronin_CV.pdf" target="_blank">Download my full CV (PDF)</a>
+<a href="{{ base_path }}/files/SCronin_CV.pdf" target="_blank">Download my CV (PDF)</a>
